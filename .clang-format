@@ -1,0 +1,11 @@
+# Language: C
+UseTab: Always
+IndentWidth: 4
+TabWidth: 4
+IndentPPDirectives: BeforeHash
+PointerAlignment: Left
+AlignAfterOpenBracket: BlockIndent
+BinPackArguments: true
+BinPackParameters: OnePerLine
+AllowShortFunctionsOnASingleLine: Empty
+
